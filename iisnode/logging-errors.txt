@@ -1,0 +1,8 @@
+Wed Nov 13 2013 21:55:26 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:670:11)
+    at Array.0 (net.js:756:28)
+    at EventEmitter._tickCallback (node.js:190:38)
+Wed Nov 13 2013 21:56:13 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:670:11)
+    at Array.0 (net.js:756:28)
+    at EventEmitter._tickCallback (node.js:190:38)
