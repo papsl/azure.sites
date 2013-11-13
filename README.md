@@ -9,7 +9,7 @@ Using TypeScript:
 
 First TS example:
 - tsc --module commonjs server.ts
-- tsc --module commonjs sayings.ts
+- tsc --module commonjs sayings.ts (this can be skipped, because it is referenced in server.ts so tsc will also compile it)
 
 Read more:
 - http://www.windowsazure.com/en-us/develop/nodejs/tutorials/create-a-website-(mac)/ (setting up, pushing using git repo.)
